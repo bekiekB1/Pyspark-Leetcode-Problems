@@ -10,7 +10,7 @@ This project focuses on solving pyspark interview problems from various companie
 
 ---
 <details>
-<summary> Problem 1</summary>
+<summary> Problem 1(Amazon Interview Problem)</summary>
 
 We are given a table called ```customer_state_log``` containing the following columns:
 
@@ -23,7 +23,7 @@ Our task is to calculate **how many hours each user was active during the day ba
 Source: https://medium.com/data-engineer-things/amazon-pyspark-interview-question-hard-level-761872156497
 </details>
 
-📂 **[Solution Notebook](notebooks/problem1.ipynb)**
+📂 **[Solution Notebook](Interview_PracticeProblems/notebooks/problem1.ipynb)**
 
 ---
 
@@ -34,4 +34,4 @@ Source: https://medium.com/data-engineer-things/amazon-pyspark-interview-questio
 
 </details>
 
-📂 **[Solution Notebook](notebooks/problem2.ipynb)**
+📂 **[Solution Notebook](Interview_PracticeProblems/notebooks/problem2.ipynb)**
